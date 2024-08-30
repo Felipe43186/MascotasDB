@@ -1,0 +1,4 @@
+git add "nombre del archivo" agregar archivo nuevo
+git commit -am "nombre del cambio" agregar cambios nuevos
+git push origin main "subir cambios al repositorio de github"
+git pull origin main "traer cambios del repositorio al equipo"
